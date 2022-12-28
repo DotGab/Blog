@@ -1,4 +1,4 @@
-baseURL = "https://Dotgab.github.io/blog/"
+baseURL = "https://DotGab.github.io/Blog/"
 languageCode = "en-us"
 title = "DotGab"
 theme = "m10c"
