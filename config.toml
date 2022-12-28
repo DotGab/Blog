@@ -1,6 +1,6 @@
 baseURL = "https://DotGab.github.io/Blog/"
 languageCode = "en-us"
-title = "DotGab"
+title = "Posts"
 theme = "m10c"
 
 [params]
