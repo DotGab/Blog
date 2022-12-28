@@ -6,7 +6,6 @@ theme = "m10c"
 [params]
   author = "DotGab"
   description = "A place to share things"
-  avatar = "static/avatar.jpg"
 
   [[params.social]]
     icon = "github"
